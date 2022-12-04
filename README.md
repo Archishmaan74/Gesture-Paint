@@ -22,7 +22,6 @@ pip install <module name>
 * If User shows only Index Finger than he/she is in drawing mode.
 * To Select different color or eraser from the top of Canvas, User must select it by taking his both Index and Middle finger together at the top of icon.
  
- ![Ai-Virtual-Painter_f](https://user-images.githubusercontent.com/78357575/123515066-b808b300-d6b3-11eb-8082-97a67f5493c9.jpg)
 
 
 ## Note :📝 
